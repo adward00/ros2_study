@@ -1,0 +1,1 @@
+/home/mg0220/ros2_study/build/my_first_package_msgs/rosidl_cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake

@@ -1,0 +1,17 @@
+[0.153s] Invoking command in '/home/mg0220/ros2_study/src/build/my_first_packges': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mg0220/ros2_study/install/my_first_package:/opt/ros/humble /usr/bin/cmake /home/mg0220/ros2_study/src/my_first_packges -DCMAKE_INSTALL_PREFIX=/home/mg0220/ros2_study/src/install/my_first_packges
+[0.158s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.237s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.238s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.239s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.311s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.326s] [31mCMake Error at /opt/ros/humble/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:93 (message):
+[0.326s]   rosidl_generate_interfaces() the passed file 'msg/CmdAndPoseVel.msg'
+[0.326s]   doesn't exist relative to the CMAKE_CURRENT_SOURCE_DIR
+[0.326s]   '/home/mg0220/ros2_study/src/my_first_packges'
+[0.326s] Call Stack (most recent call first):
+[0.326s]   CMakeLists.txt:16 (rosidl_generate_interfaces)
+[0.326s] 
+[0.326s] [0m
+[0.327s] -- Configuring incomplete, errors occurred!
+[0.327s] See also "/home/mg0220/ros2_study/src/build/my_first_packges/CMakeFiles/CMakeOutput.log".
+[0.330s] Invoked command in '/home/mg0220/ros2_study/src/build/my_first_packges' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mg0220/ros2_study/install/my_first_package:/opt/ros/humble /usr/bin/cmake /home/mg0220/ros2_study/src/my_first_packges -DCMAKE_INSTALL_PREFIX=/home/mg0220/ros2_study/src/install/my_first_packges

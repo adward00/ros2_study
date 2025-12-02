@@ -1,0 +1,1 @@
+/home/mg0220/ros2_study/build/my_first_package_msgs/rosidl_generator_py/my_first_package_msgs/action/__init__.py

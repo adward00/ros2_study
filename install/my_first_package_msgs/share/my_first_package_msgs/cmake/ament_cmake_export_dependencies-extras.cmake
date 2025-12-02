@@ -1,0 +1,1 @@
+/home/mg0220/ros2_study/build/my_first_package_msgs/ament_cmake_export_dependencies/ament_cmake_export_dependencies-extras.cmake

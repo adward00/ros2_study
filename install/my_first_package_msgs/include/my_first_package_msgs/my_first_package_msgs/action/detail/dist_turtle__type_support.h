@@ -1,0 +1,1 @@
+/home/mg0220/ros2_study/build/my_first_package_msgs/rosidl_generator_c/my_first_package_msgs/action/detail/dist_turtle__type_support.h
